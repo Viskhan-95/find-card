@@ -1,0 +1,13 @@
+.conteiner {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px 0 0 0;
+}
+
+.form {
+    width: 100%;
+    border-radius: 5px;
+    border-color: blue;
+    font-size: 20px;
+    padding: 5px;
+}
